@@ -23,6 +23,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.header link {
+  text-decoration: none;
+}
+
+.header{
+  text-decoration: none;
+  color: inherit;
+}
 
 .App-link {
   color: #61dafb;
